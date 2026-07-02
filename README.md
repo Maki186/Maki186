@@ -2,6 +2,8 @@
 
 I'm a Full-Stack Developer with years of academic background in IT. I enjoy logical challenges, building comprehensive applications, and constantly expanding my tech stack to create better software.
 
+🌐 **Web / Portfolio:** [marketa-nedelova.vercel.app](https://marketa-nedelova.vercel.app/)
+
 ### 💻 Technology and Tools
 
 #### Programming Languages
